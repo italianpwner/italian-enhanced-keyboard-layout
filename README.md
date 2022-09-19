@@ -11,5 +11,7 @@ It is a customization of [Windows' Italian keyboard layout](https://kbdlayout.in
 | AltGr + c         | ©    | VK_C     | U+00A9  | COPYRIGHT SIGN                    |
 | AltGr + r         | ®    | VK_R     | U+00AE  | REGISTERED SIGN                   |
 | AltGr + t         | ™    | VK_T     | U+2122  | TRADE MARK SIGN                   |
+| AltGr + p         | π    | VK_P     | U+03C0  | PI                                |
+| AltGr + v         | √    | VK_V     | U+221A  | SQUARE ROOT                       |
 
 I've used [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) (MSKLC) to edit the layout's "source code" (file: *layout.klc*), to generate its setup executable and build its DLLs. 
